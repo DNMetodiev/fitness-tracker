@@ -6,5 +6,9 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  openSidenav = false;
+  // openSidenav = false;
+  // @ViewChild('sidenav') sidenav: MatSidenav;
+  // onToggle() {
+
 }
+
